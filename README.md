@@ -8,6 +8,6 @@ The notebook "demo_decoder.ipynb" provides a guide on using a pre-trained model 
 - Ground truth data
   - dimension: 512 $×$ 512 (H $\times$ W)
   - format: PNG
-- Measurements data
+- Compressed data
   - dimension: 64 $×$ 64 $×$ 8 (H $\times$ W $\times$ C)
   - format: .npy
