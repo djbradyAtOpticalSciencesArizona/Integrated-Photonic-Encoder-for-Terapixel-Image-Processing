@@ -15,4 +15,5 @@ Offical repository for "[Wang, Xiao, Brandon Redding, Nicholas Karl, Christopher
   - dimension: 64 $×$ 64 $×$ 8 (H $\times$ W $\times$ C)
   - format: .npy
   - total number: 19
+
 The corresponding compressed data of "00000.png" is "0.npy", and the subsequent files follow the same pattern.
