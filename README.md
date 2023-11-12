@@ -16,4 +16,4 @@ Offical repository for "[Wang, Xiao, Brandon Redding, Nicholas Karl, Christopher
   - format: .npy
   - total number: 19
 
-The corresponding compressed data of "000005_10.png" is "000005_10.npy", and the subsequent files follow the same pattern.
+The corresponding compressed data of "000005_10.png" is "000005_10.npy", and the rest files follow the same pattern.
